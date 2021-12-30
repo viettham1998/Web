@@ -2210,7 +2210,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 
 /*--------------------------------------------------------------------------------------------*/
 .page-header {
-  background: url(http://themedesigner.in.dimgx.net/demo/Helping-Hands/images/page-header.jpg) no-repeat scroll center top;
+  background: url(images/page-header.jpg) no-repeat scroll center top;
   text-transform: uppercase;
   -webkit-background-size: cover;
   background-size: cover;
