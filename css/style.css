@@ -2210,7 +2210,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 
 /*--------------------------------------------------------------------------------------------*/
 .page-header {
-  background: url(images/page-header.jpg) no-repeat scroll center top;
+  background-image: url(https://viettham1998.github.io/Web/images/page-header.jpg);
   text-transform: uppercase;
   -webkit-background-size: cover;
   background-size: cover;
